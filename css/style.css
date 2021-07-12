@@ -628,6 +628,10 @@ a:hover {
   font-size: 3rem;
 }
 
+.iconify .slide-icon{
+  font-size: 1.5rem;
+}
+
 .intro .intro-subtitle {
   font-size: 1.5rem;
   font-weight: 300;
@@ -1216,6 +1220,10 @@ footer .credits a {
 
   .intro .intro-title {
     font-size: 4.5rem;
+  }
+
+  .iconify .slide-icon{
+    font-size: 2.5rem;
   }
 
   .intro .intro-subtitle {
